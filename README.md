@@ -1,2 +1,1 @@
-# Simple Game
- 
+# Simple Game - Projeto realizado acompanhando um vídeo do Youtube.
